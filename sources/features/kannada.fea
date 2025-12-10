@@ -3856,187 +3856,196 @@ lookup KndaSinglePositioning8 useExtension {
 # Features
 # --------
 feature nukt {
-
-lookupflag UseMarkFilteringSet [nuktaknda uni200D];
-sub jaknda nuktaknda by januktaknda;
-sub phaknda nuktaknda by phanuktaknda;
-
+    script knd2;
+    lookup KndaNukt useExtension {
+        lookupflag UseMarkFilteringSet [nuktaknda uni200D];
+        sub jaknda nuktaknda by januktaknda;
+        sub phaknda nuktaknda by phanuktaknda;
+    } KndaNukt;
 } nukt;
 
 feature akhn {
-
-lookupflag UseMarkFilteringSet [nuktaknda uni200D];
-sub kaknda viramaknda ssaknda by kassaknda;
-sub jaknda viramaknda nyaknda by janyaknda;
-
+    script knd2;
+    lookup KndaAkhn useExtension {
+        lookupflag UseMarkFilteringSet [nuktaknda uni200D];
+        sub kaknda viramaknda ssaknda by kassaknda;
+        sub jaknda viramaknda nyaknda by janyaknda;
+    } KndaAkhn;
 } akhn;
 
 feature rphf {
-
-sub raknda viramaknda by rephknda;
+    script knd2;
+    lookup KndaRphf useExtension {
+        sub raknda viramaknda by rephknda;        
+    } KndaRphf;
 } rphf;
 
 feature blwf {
-
-sub viramaknda baknda by basubscriptknda;
-sub viramaknda bhaknda by bhasubscriptknda;
-sub viramaknda caknda by casubscriptknda;
-sub viramaknda chaknda by chasubscriptknda;
-sub viramaknda daknda by dasubscriptknda;
-sub viramaknda ddaknda by ddasubscriptknda;
-sub viramaknda ddhaknda by ddhasubscriptknda;
-sub viramaknda dhaknda by dhasubscriptknda;
-sub viramaknda faknda by fasubscriptknda;
-sub viramaknda gaknda by gasubscriptknda;
-sub viramaknda ghaknda by ghasubscriptknda;
-sub viramaknda haknda by hasubscriptknda;
-sub viramaknda jaknda by jasubscriptknda;
-sub viramaknda januktaknda by januktasubscriptknda;
-sub viramaknda jhaknda by jhasubscriptknda;
-sub viramaknda kaknda by kasubscriptknda;
-sub viramaknda khaknda by khasubscriptknda;
-sub viramaknda laknda by lasubscriptknda;
-sub viramaknda llaknda by llasubscriptknda;
-sub viramaknda maknda by masubscriptknda;
-sub viramaknda naknda by nasubscriptknda;
-sub viramaknda ngaknda by ngasubscriptknda;
-sub viramaknda nnaknda by nnasubscriptknda;
-sub viramaknda nyaknda by nyasubscriptknda;
-sub viramaknda paknda by pasubscriptknda;
-sub viramaknda phaknda by phasubscriptknda;
-sub viramaknda phanuktaknda by phanuktasubscriptknda;
-sub viramaknda raknda by rasubscriptknda;
-sub viramaknda rraknda by rrasubscriptknda;
-sub viramaknda saknda by sasubscriptknda;
-sub viramaknda shaknda by shasubscriptknda;
-sub viramaknda ssaknda by ssasubscriptknda;
-sub viramaknda taknda by tasubscriptknda;
-sub viramaknda thaknda by thasubscriptknda;
-sub viramaknda ttaknda by ttasubscriptknda;
-sub viramaknda tthaknda by tthasubscriptknda;
-sub viramaknda vaknda by vasubscriptknda;
-sub viramaknda yaknda by yasubscriptknda;
-
+    script knd2;
+    lookup KndaBlwf useExtension {
+        sub viramaknda baknda by basubscriptknda;
+        sub viramaknda bhaknda by bhasubscriptknda;
+        sub viramaknda caknda by casubscriptknda;
+        sub viramaknda chaknda by chasubscriptknda;
+        sub viramaknda daknda by dasubscriptknda;
+        sub viramaknda ddaknda by ddasubscriptknda;
+        sub viramaknda ddhaknda by ddhasubscriptknda;
+        sub viramaknda dhaknda by dhasubscriptknda;
+        sub viramaknda faknda by fasubscriptknda;
+        sub viramaknda gaknda by gasubscriptknda;
+        sub viramaknda ghaknda by ghasubscriptknda;
+        sub viramaknda haknda by hasubscriptknda;
+        sub viramaknda jaknda by jasubscriptknda;
+        sub viramaknda januktaknda by januktasubscriptknda;
+        sub viramaknda jhaknda by jhasubscriptknda;
+        sub viramaknda kaknda by kasubscriptknda;
+        sub viramaknda khaknda by khasubscriptknda;
+        sub viramaknda laknda by lasubscriptknda;
+        sub viramaknda llaknda by llasubscriptknda;
+        sub viramaknda maknda by masubscriptknda;
+        sub viramaknda naknda by nasubscriptknda;
+        sub viramaknda ngaknda by ngasubscriptknda;
+        sub viramaknda nnaknda by nnasubscriptknda;
+        sub viramaknda nyaknda by nyasubscriptknda;
+        sub viramaknda paknda by pasubscriptknda;
+        sub viramaknda phaknda by phasubscriptknda;
+        sub viramaknda phanuktaknda by phanuktasubscriptknda;
+        sub viramaknda raknda by rasubscriptknda;
+        sub viramaknda rraknda by rrasubscriptknda;
+        sub viramaknda saknda by sasubscriptknda;
+        sub viramaknda shaknda by shasubscriptknda;
+        sub viramaknda ssaknda by ssasubscriptknda;
+        sub viramaknda taknda by tasubscriptknda;
+        sub viramaknda thaknda by thasubscriptknda;
+        sub viramaknda ttaknda by ttasubscriptknda;
+        sub viramaknda tthaknda by tthasubscriptknda;
+        sub viramaknda vaknda by vasubscriptknda;
+        sub viramaknda yaknda by yasubscriptknda;
+    } KndaBlwf;
 } blwf;
 
 feature half {
-
-sub kaknda viramaknda uni200D by kaviramaknda;
-sub khaknda viramaknda uni200D by khaviramaknda;
-sub gaknda viramaknda uni200D by gaviramaknda;
-sub ghaknda viramaknda uni200D by ghaviramaknda;
-sub ngaknda viramaknda uni200D by ngaviramaknda;
-sub caknda viramaknda uni200D by caviramaknda;
-sub chaknda viramaknda uni200D by chaviramaknda;
-sub jaknda viramaknda uni200D by javiramaknda;
-sub jhaknda viramaknda uni200D by jhaviramaknda;
-sub nyaknda viramaknda uni200D by nyaviramaknda;
-sub ttaknda viramaknda uni200D by ttaviramaknda;
-sub tthaknda viramaknda uni200D by tthaviramaknda;
-sub ddaknda viramaknda uni200D by ddaviramaknda;
-sub ddhaknda viramaknda uni200D by ddhaviramaknda;
-sub nnaknda viramaknda uni200D by nnaviramaknda;
-sub taknda viramaknda uni200D by taviramaknda;
-sub thaknda viramaknda uni200D by thaviramaknda;
-sub daknda viramaknda uni200D by daviramaknda;
-sub dhaknda viramaknda uni200D by dhaviramaknda;
-sub naknda viramaknda uni200D by naviramaknda;
-sub paknda viramaknda uni200D by paviramaknda;
-sub phaknda viramaknda uni200D by phaviramaknda;
-sub baknda viramaknda uni200D by baviramaknda;
-sub bhaknda viramaknda uni200D by bhaviramaknda;
-sub maknda viramaknda uni200D by maviramaknda;
-sub yaknda viramaknda uni200D by yaviramaknda;
-sub raknda viramaknda uni200D by raviramaknda;
-sub rraknda viramaknda uni200D by rraviramaknda;
-sub laknda viramaknda uni200D by laviramaknda;
-sub llaknda viramaknda uni200D by llaviramaknda;
-sub vaknda viramaknda uni200D by vaviramaknda;
-sub shaknda viramaknda uni200D by shaviramaknda;
-sub ssaknda viramaknda uni200D by ssaviramaknda;
-sub saknda viramaknda uni200D by saviramaknda;
-sub haknda viramaknda uni200D by haviramaknda;
-sub faknda viramaknda uni200D by faviramaknda;
-sub januktaknda viramaknda uni200D by januktaviramaknda;
-sub phanuktaknda viramaknda uni200D by phanuktaviramaknda;
-sub kassaknda viramaknda uni200D by kassaviramaknda;
-sub janyaknda viramaknda uni200D by janyaviramaknda;
-
+    script knd2;
+    lookup KndaHalf useExtension {
+        sub kaknda viramaknda uni200D by kaviramaknda;
+        sub khaknda viramaknda uni200D by khaviramaknda;
+        sub gaknda viramaknda uni200D by gaviramaknda;
+        sub ghaknda viramaknda uni200D by ghaviramaknda;
+        sub ngaknda viramaknda uni200D by ngaviramaknda;
+        sub caknda viramaknda uni200D by caviramaknda;
+        sub chaknda viramaknda uni200D by chaviramaknda;
+        sub jaknda viramaknda uni200D by javiramaknda;
+        sub jhaknda viramaknda uni200D by jhaviramaknda;
+        sub nyaknda viramaknda uni200D by nyaviramaknda;
+        sub ttaknda viramaknda uni200D by ttaviramaknda;
+        sub tthaknda viramaknda uni200D by tthaviramaknda;
+        sub ddaknda viramaknda uni200D by ddaviramaknda;
+        sub ddhaknda viramaknda uni200D by ddhaviramaknda;
+        sub nnaknda viramaknda uni200D by nnaviramaknda;
+        sub taknda viramaknda uni200D by taviramaknda;
+        sub thaknda viramaknda uni200D by thaviramaknda;
+        sub daknda viramaknda uni200D by daviramaknda;
+        sub dhaknda viramaknda uni200D by dhaviramaknda;
+        sub naknda viramaknda uni200D by naviramaknda;
+        sub paknda viramaknda uni200D by paviramaknda;
+        sub phaknda viramaknda uni200D by phaviramaknda;
+        sub baknda viramaknda uni200D by baviramaknda;
+        sub bhaknda viramaknda uni200D by bhaviramaknda;
+        sub maknda viramaknda uni200D by maviramaknda;
+        sub yaknda viramaknda uni200D by yaviramaknda;
+        sub raknda viramaknda uni200D by raviramaknda;
+        sub rraknda viramaknda uni200D by rraviramaknda;
+        sub laknda viramaknda uni200D by laviramaknda;
+        sub llaknda viramaknda uni200D by llaviramaknda;
+        sub vaknda viramaknda uni200D by vaviramaknda;
+        sub shaknda viramaknda uni200D by shaviramaknda;
+        sub ssaknda viramaknda uni200D by ssaviramaknda;
+        sub saknda viramaknda uni200D by saviramaknda;
+        sub haknda viramaknda uni200D by haviramaknda;
+        sub faknda viramaknda uni200D by faviramaknda;
+        sub januktaknda viramaknda uni200D by januktaviramaknda;
+        sub phanuktaknda viramaknda uni200D by phanuktaviramaknda;
+        sub kassaknda viramaknda uni200D by kassaviramaknda;
+        sub janyaknda viramaknda uni200D by janyaviramaknda;    
+    } KndaHalf;
 } half;
 
 feature abvs {
+    script knd2;
+    lookup KndaSplitAkhands useExtension {
+        sub viramaknda' lookup KndaSingleSubstitution10 kassaknda' lookup KndaSingleSubstitution10;
+        sub viramaknda' lookup KndaSingleSubstitution11 janyaknda' lookup KndaSingleSubstitution11;
+        sub kassaknda' lookup KndaMultipleSubstitution9 nuktaknda';
+        sub janyaknda' lookup KndaMultipleSubstitution9 nuktaknda';
+    } KndaSplitAkhands;
 
-lookup KndaSplitAkhands useExtension {
-sub viramaknda' lookup KndaSingleSubstitution10 kassaknda' lookup KndaSingleSubstitution10;
-sub viramaknda' lookup KndaSingleSubstitution11 janyaknda' lookup KndaSingleSubstitution11;
-sub kassaknda' lookup KndaMultipleSubstitution9 nuktaknda';
-sub janyaknda' lookup KndaMultipleSubstitution9 nuktaknda';
-} KndaSplitAkhands;
+    lookup KndaContextualGSUB12 useExtension {
+        lookupflag IgnoreMarks;
+        ignore sub raknda' rvocalicvowelsignknda' rephknda';
+        sub raknda' lookup KndaSingleSubstitution13 rvocalicvowelsignknda' lookup KndaSingleSubstitution13;
+        sub uni0CF1' kaknda' lookup KndaSingleSubstitution13;
+        sub uni0CF1' khaknda' lookup KndaSingleSubstitution13;
+        sub uni0CF2' paknda' lookup KndaSingleSubstitution13;
+        sub uni0CF2' phaknda' lookup KndaSingleSubstitution13;
+    } KndaContextualGSUB12;
 
-lookup KndaContextualGSUB12 useExtension {
-    lookupflag IgnoreMarks;
-    ignore sub raknda' rvocalicvowelsignknda' rephknda';
-    sub raknda' lookup KndaSingleSubstitution13 rvocalicvowelsignknda' lookup KndaSingleSubstitution13;
-    sub uni0CF1' kaknda' lookup KndaSingleSubstitution13;
-    sub uni0CF1' khaknda' lookup KndaSingleSubstitution13;
-    sub uni0CF2' paknda' lookup KndaSingleSubstitution13;
-    sub uni0CF2' phaknda' lookup KndaSingleSubstitution13;
-} KndaContextualGSUB12;
+    lookup KndaSwapSubscriptVowelSign useExtension {
+        sub januktasubscriptknda' lookup KndaSingleSubstitution16 aavowelsignknda' lookup KndaSingleSubstitution22;
+        sub januktasubscriptknda' lookup KndaSingleSubstitution17 ivowelsignknda' lookup KndaSingleSubstitution22;
+        sub januktasubscriptknda' lookup KndaSingleSubstitution18 evowelsignknda' lookup KndaSingleSubstitution22;
+        sub januktasubscriptknda' lookup KndaSingleSubstitution19 uvowelsignknda' lookup KndaSingleSubstitution22;
+        sub januktasubscriptknda' lookup KndaSingleSubstitution21 auvowelsignknda' lookup KndaSingleSubstitution22;
+        sub phanuktasubscriptknda' lookup KndaSingleSubstitution16 aavowelsignknda' lookup KndaSingleSubstitution23;
+        sub phanuktasubscriptknda' lookup KndaSingleSubstitution17 ivowelsignknda' lookup KndaSingleSubstitution23;
+        sub phanuktasubscriptknda' lookup KndaSingleSubstitution18 evowelsignknda' lookup KndaSingleSubstitution23;
+        sub phanuktasubscriptknda' lookup KndaSingleSubstitution19 uvowelsignknda' lookup KndaSingleSubstitution23;
+        sub phanuktasubscriptknda' lookup KndaSingleSubstitution21 auvowelsignknda' lookup KndaSingleSubstitution23;
+        sub januktasubscriptknda' lookup KndaSingleSubstitution20 uuvowelsignknda' lookup KndaSingleSubstitution22;
+        sub phanuktasubscriptknda' lookup KndaSingleSubstitution20 uuvowelsignknda' lookup KndaSingleSubstitution23;
 
-lookup KndaSwapSubscriptVowelSign useExtension {
-    sub januktasubscriptknda' lookup KndaSingleSubstitution16 aavowelsignknda' lookup KndaSingleSubstitution22;
-    sub januktasubscriptknda' lookup KndaSingleSubstitution17 ivowelsignknda' lookup KndaSingleSubstitution22;
-    sub januktasubscriptknda' lookup KndaSingleSubstitution18 evowelsignknda' lookup KndaSingleSubstitution22;
-    sub januktasubscriptknda' lookup KndaSingleSubstitution19 uvowelsignknda' lookup KndaSingleSubstitution22;
-    sub januktasubscriptknda' lookup KndaSingleSubstitution21 auvowelsignknda' lookup KndaSingleSubstitution22;
-    sub phanuktasubscriptknda' lookup KndaSingleSubstitution16 aavowelsignknda' lookup KndaSingleSubstitution23;
-    sub phanuktasubscriptknda' lookup KndaSingleSubstitution17 ivowelsignknda' lookup KndaSingleSubstitution23;
-    sub phanuktasubscriptknda' lookup KndaSingleSubstitution18 evowelsignknda' lookup KndaSingleSubstitution23;
-    sub phanuktasubscriptknda' lookup KndaSingleSubstitution19 uvowelsignknda' lookup KndaSingleSubstitution23;
-    sub phanuktasubscriptknda' lookup KndaSingleSubstitution21 auvowelsignknda' lookup KndaSingleSubstitution23;
-    sub januktasubscriptknda' lookup KndaSingleSubstitution20 uuvowelsignknda' lookup KndaSingleSubstitution22;
-    sub phanuktasubscriptknda' lookup KndaSingleSubstitution20 uuvowelsignknda' lookup KndaSingleSubstitution23;
+    } KndaSwapSubscriptVowelSign;
 
-} KndaSwapSubscriptVowelSign;
-
-lookup KndaDealWithVowelSigns useExtension {
-    lookupflag MarkAttachmentType @knda_vowelsigns;
-    sub @knda_consonants' lookup KndaRemoveCrest aavowelsignknda';
-    sub @knda_consonants' lookup KndaRemoveCrest auvowelsignknda';
-    sub @knda_consonants' lookup KndaVowelLigature ivowelsignknda';
-    sub @knda_consonants' lookup KndaVowelLigature evowelsignknda';
-    sub [faknda ngaknda nyaknda rraknda uni0CF1 uni0CF2]' aavowelsignknda' lookup KndaAlternateVowelSigns;
-    sub [faknda ngaknda nyaknda rraknda uni0CF1 uni0CF2]' [kasubscriptknda khasubscriptknda pasubscriptknda phasubscriptknda]' aavowelsignknda' lookup KndaAlternateVowelSigns;
-    sub [faknda ngaknda nyaknda rraknda uni0CF1 uni0CF2]' evowelsignknda' lookup KndaAlternateVowelSigns;
-    sub [faknda ngaknda nyaknda rraknda uni0CF1 uni0CF2]' [kasubscriptknda khasubscriptknda pasubscriptknda phasubscriptknda]' evowelsignknda' lookup KndaAlternateVowelSigns;
-} KndaDealWithVowelSigns;
+    lookup KndaDealWithVowelSigns useExtension {
+        lookupflag MarkAttachmentType @knda_vowelsigns;
+        sub @knda_consonants' lookup KndaRemoveCrest aavowelsignknda';
+        sub @knda_consonants' lookup KndaRemoveCrest auvowelsignknda';
+        sub @knda_consonants' lookup KndaVowelLigature ivowelsignknda';
+        sub @knda_consonants' lookup KndaVowelLigature evowelsignknda';
+        sub [faknda ngaknda nyaknda rraknda uni0CF1 uni0CF2]' aavowelsignknda' lookup KndaAlternateVowelSigns;
+        sub [faknda ngaknda nyaknda rraknda uni0CF1 uni0CF2]' [kasubscriptknda khasubscriptknda pasubscriptknda phasubscriptknda]' aavowelsignknda' lookup KndaAlternateVowelSigns;
+        sub [faknda ngaknda nyaknda rraknda uni0CF1 uni0CF2]' evowelsignknda' lookup KndaAlternateVowelSigns;
+        sub [faknda ngaknda nyaknda rraknda uni0CF1 uni0CF2]' [kasubscriptknda khasubscriptknda pasubscriptknda phasubscriptknda]' evowelsignknda' lookup KndaAlternateVowelSigns;
+    } KndaDealWithVowelSigns;
 
 } abvs;
 
 feature blws {
+    script knd2;
+    lookup KndaBlws1 useExtension {
+        sub @knda_subscripts' lookup KndaSplitConjunct nuktaknda;        
+    } KndaBlws1;
 
-sub @knda_subscripts' lookup KndaSplitConjunct nuktaknda;
-
-
-sub kasubscriptknda rasubscriptknda by karasubscriptknda;
-sub gasubscriptknda rasubscriptknda by garasubscriptknda;
-sub ttasubscriptknda rasubscriptknda by ttarasubscriptknda;
-sub ddasubscriptknda rasubscriptknda by ddarasubscriptknda;
-sub tasubscriptknda ailengthmarkknda by tasubscriptlengthmarkknda;
-sub tasubscriptknda rasubscriptknda by tarasubscriptknda;
-sub tasubscriptknda rvocalicvowelsignknda by tasubscriptrvocalicknda;
-sub tasubscriptknda yasubscriptknda by tayasubscriptknda;
-sub dasubscriptknda rasubscriptknda by darasubscriptknda;
-sub pasubscriptknda rasubscriptknda by parasubscriptknda;
-sub bhasubscriptknda rasubscriptknda by bharasubscriptknda;
-sub masubscriptknda ailengthmarkknda by masubscriptlengthmarkknda;
-sub masubscriptknda rvocalicvowelsignknda by masubscriptrvocalicknda;
-sub masubscriptknda yasubscriptknda by mayasubscriptknda;
-sub rasubscriptknda ailengthmarkknda by rasubscriptlengthmarkknda;
-
+    lookup KndaBlws2 useExtension {
+        sub kasubscriptknda rasubscriptknda by karasubscriptknda;
+        sub gasubscriptknda rasubscriptknda by garasubscriptknda;
+        sub ttasubscriptknda rasubscriptknda by ttarasubscriptknda;
+        sub ddasubscriptknda rasubscriptknda by ddarasubscriptknda;
+        sub tasubscriptknda ailengthmarkknda by tasubscriptlengthmarkknda;
+        sub tasubscriptknda rasubscriptknda by tarasubscriptknda;
+        sub tasubscriptknda rvocalicvowelsignknda by tasubscriptrvocalicknda;
+        sub tasubscriptknda yasubscriptknda by tayasubscriptknda;
+        sub dasubscriptknda rasubscriptknda by darasubscriptknda;
+        sub pasubscriptknda rasubscriptknda by parasubscriptknda;
+        sub bhasubscriptknda rasubscriptknda by bharasubscriptknda;
+        sub masubscriptknda ailengthmarkknda by masubscriptlengthmarkknda;
+        sub masubscriptknda rvocalicvowelsignknda by masubscriptrvocalicknda;
+        sub masubscriptknda yasubscriptknda by mayasubscriptknda;
+        sub rasubscriptknda ailengthmarkknda by rasubscriptlengthmarkknda;
+    } KndaBlws2;
 } blws;
 
 feature psts {
+    script knd2;
 
 # [('knd2', 'dflt')]
 lookup KndaUVowelAlternateForms useExtension {
@@ -5324,7 +5333,7 @@ lookup KndaSplitCandrabinduAnudatta useExtension {
 } psts;
 
 feature haln {
-
+    script knd2;
 lookup KndaViramaConjuncts useExtension {
     lookupflag IgnoreLigatures IgnoreMarks;
     sub kaknda viramaknda by kaviramaknda;
