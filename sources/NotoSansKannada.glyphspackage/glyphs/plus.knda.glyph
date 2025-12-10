@@ -1,0 +1,167 @@
+{
+glyphname = plus.knda;
+layers = (
+{
+layerId = "FE2B0BD8-B47C-499C-AD4C-AD0FCE91BEAA";
+paths = (
+{
+closed = 1;
+nodes = (
+"322 101 LINE",
+"322 307 LINE",
+"521 307 LINE",
+"521 378 LINE",
+"322 378 LINE",
+"322 585 LINE",
+"250 585 LINE",
+"250 378 LINE",
+"51 378 LINE",
+"51 307 LINE",
+"250 307 LINE",
+"250 101 LINE"
+);
+}
+);
+width = 572;
+},
+{
+layerId = "59904108-ED7C-415A-AD3A-E782E395359F";
+paths = (
+{
+closed = 1;
+nodes = (
+"339 102 LINE",
+"339 290 LINE",
+"528 290 LINE",
+"528 397 LINE",
+"339 397 LINE",
+"339 587 LINE",
+"232 587 LINE",
+"232 397 LINE",
+"43 397 LINE",
+"43 290 LINE",
+"232 290 LINE",
+"232 102 LINE"
+);
+}
+);
+width = 572;
+},
+{
+layerId = "0BEF1080-E137-4F43-8C83-CA78BDD71456";
+paths = (
+{
+closed = 1;
+nodes = (
+"299 113 LINE",
+"299 330 LINE",
+"516 330 LINE",
+"516 356 LINE",
+"299 356 LINE",
+"299 573 LINE",
+"273 573 LINE",
+"273 356 LINE",
+"56 356 LINE",
+"56 330 LINE",
+"273 330 LINE",
+"273 113 LINE"
+);
+}
+);
+width = 572;
+},
+{
+layerId = "A3F7EA16-0BE1-4972-8E15-81FCDB02E0EA";
+paths = (
+{
+closed = 1;
+nodes = (
+"351 98 LINE",
+"351 277 LINE",
+"533 277 LINE",
+"533 408 LINE",
+"351 408 LINE",
+"351 587 LINE",
+"220 587 LINE",
+"220 408 LINE",
+"38 408 LINE",
+"38 277 LINE",
+"220 277 LINE",
+"220 98 LINE"
+);
+}
+);
+width = 572;
+},
+{
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"249 109 LINE",
+"249 309 LINE",
+"398 309 LINE",
+"398 377 LINE",
+"249 377 LINE",
+"249 578 LINE",
+"180 578 LINE",
+"180 377 LINE",
+"30 377 LINE",
+"30 309 LINE",
+"180 309 LINE",
+"180 109 LINE"
+);
+}
+);
+width = 429;
+},
+{
+layerId = "4E5029FE-6AFD-4268-B346-636964A0A0FB";
+paths = (
+{
+closed = 1;
+nodes = (
+"213 118 LINE",
+"213 330 LINE",
+"366 330 LINE",
+"366 356 LINE",
+"213 356 LINE",
+"213 568 LINE",
+"187 568 LINE",
+"187 356 LINE",
+"32 356 LINE",
+"32 330 LINE",
+"187 330 LINE",
+"187 118 LINE"
+);
+}
+);
+width = 399;
+},
+{
+layerId = "A94BFCAA-C6AC-4D60-8591-C187F65C6766";
+paths = (
+{
+closed = 1;
+nodes = (
+"314 101 LINE",
+"314 278 LINE",
+"462 278 LINE",
+"462 407 LINE",
+"314 407 LINE",
+"314 587 LINE",
+"181 587 LINE",
+"181 407 LINE",
+"34 407 LINE",
+"34 278 LINE",
+"181 278 LINE",
+"181 101 LINE"
+);
+}
+);
+width = 496;
+}
+);
+unicode = 002B;
+}

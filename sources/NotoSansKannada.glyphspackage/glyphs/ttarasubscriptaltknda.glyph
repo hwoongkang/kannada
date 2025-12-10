@@ -1,0 +1,147 @@
+{
+glyphname = ttarasubscriptaltknda;
+layers = (
+{
+anchors = (
+{
+name = entry;
+position = "{0, -195}";
+}
+);
+components = (
+{
+name = ttasubscriptknda;
+transform = "{1, 0, 0, 1, 408, 0}";
+},
+{
+name = rasubscriptaltknda;
+transform = "{1, 0, 0, 1, 546, 0}";
+}
+);
+layerId = "FE2B0BD8-B47C-499C-AD4C-AD0FCE91BEAA";
+width = 656;
+},
+{
+anchors = (
+{
+name = entry;
+position = "{0, -195}";
+}
+);
+components = (
+{
+name = ttasubscriptknda;
+transform = "{1, 0, 0, 1, 413, 0}";
+},
+{
+name = rasubscriptaltknda;
+transform = "{1, 0, 0, 1, 569, 0}";
+}
+);
+layerId = "59904108-ED7C-415A-AD3A-E782E395359F";
+width = 692;
+},
+{
+anchors = (
+{
+name = entry;
+position = "{0, -195}";
+}
+);
+components = (
+{
+name = ttasubscriptknda;
+transform = "{1, 0, 0, 1, 405, 0}";
+},
+{
+name = rasubscriptaltknda;
+transform = "{1, 0, 0, 1, 508, 0}";
+}
+);
+layerId = "0BEF1080-E137-4F43-8C83-CA78BDD71456";
+width = 588;
+},
+{
+anchors = (
+{
+name = entry;
+position = "{0, -195}";
+}
+);
+components = (
+{
+name = ttasubscriptknda;
+transform = "{1, 0, 0, 1, 433, 0}";
+},
+{
+name = rasubscriptaltknda;
+transform = "{1, 0, 0, 1, 600, 0}";
+}
+);
+layerId = "A3F7EA16-0BE1-4972-8E15-81FCDB02E0EA";
+width = 737;
+},
+{
+anchors = (
+{
+name = entry;
+position = "{0, -195}";
+}
+);
+components = (
+{
+name = ttasubscriptknda;
+transform = "{1, 0, 0, 1, 294, 0}";
+},
+{
+name = rasubscriptaltknda;
+transform = "{1, 0, 0, 1, 416, 0}";
+}
+);
+layerId = UUID0;
+width = 536;
+},
+{
+anchors = (
+{
+name = entry;
+position = "{0, -195}";
+}
+);
+components = (
+{
+name = ttasubscriptknda;
+transform = "{1, 0, 0, 1, 295, 0}";
+},
+{
+name = rasubscriptaltknda;
+transform = "{1, 0, 0, 1, 385, 0}";
+}
+);
+layerId = "4E5029FE-6AFD-4268-B346-636964A0A0FB";
+width = 466;
+},
+{
+anchors = (
+{
+name = entry;
+position = "{0, -195}";
+}
+);
+components = (
+{
+name = ttasubscriptknda;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = rasubscriptaltknda;
+transform = "{1, 0, 0, 1, 473, 0}";
+}
+);
+layerId = "A94BFCAA-C6AC-4D60-8591-C187F65C6766";
+width = 607;
+}
+);
+category = Mark;
+subCategory = "Spacing Combining";
+}

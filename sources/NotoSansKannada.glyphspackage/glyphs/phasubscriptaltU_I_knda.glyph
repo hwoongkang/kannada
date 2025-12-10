@@ -1,0 +1,77 @@
+{
+glyphname = phasubscriptaltUIknda;
+layers = (
+{
+components = (
+{
+name = phasubscriptUIknda;
+transform = "{1, 0, 0, 1, 386, 0}";
+}
+);
+layerId = "FE2B0BD8-B47C-499C-AD4C-AD0FCE91BEAA";
+width = 514;
+},
+{
+components = (
+{
+name = phasubscriptUIknda;
+transform = "{1, 0, 0, 1, 386, 0}";
+}
+);
+layerId = "59904108-ED7C-415A-AD3A-E782E395359F";
+width = 530;
+},
+{
+components = (
+{
+name = phasubscriptUIknda;
+transform = "{1, 0, 0, 1, 388, 0}";
+}
+);
+layerId = "0BEF1080-E137-4F43-8C83-CA78BDD71456";
+width = 485;
+},
+{
+components = (
+{
+name = phasubscriptUIknda;
+transform = "{1, 0, 0, 1, 398, 0}";
+}
+);
+layerId = "A3F7EA16-0BE1-4972-8E15-81FCDB02E0EA";
+width = 556;
+},
+{
+components = (
+{
+name = phasubscriptUIknda;
+transform = "{1, 0, 0, 1, 300, 0}";
+}
+);
+layerId = UUID0;
+width = 422;
+},
+{
+components = (
+{
+name = phasubscriptUIknda;
+transform = "{1, 0, 0, 1, 286, 0}";
+}
+);
+layerId = "4E5029FE-6AFD-4268-B346-636964A0A0FB";
+width = 380;
+},
+{
+components = (
+{
+name = phasubscriptUIknda;
+transform = "{1, 0, 0, 1, 313, 0}";
+}
+);
+layerId = "A94BFCAA-C6AC-4D60-8591-C187F65C6766";
+width = 456;
+}
+);
+category = Mark;
+subCategory = "Spacing Combining";
+}

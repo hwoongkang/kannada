@@ -1,0 +1,176 @@
+{
+glyphname = uni1CD0;
+layers = (
+{
+anchors = (
+{
+name = _Anchor5;
+position = "{-278, -264}";
+}
+);
+layerId = "0BEF1080-E137-4F43-8C83-CA78BDD71456";
+paths = (
+{
+closed = 1;
+nodes = (
+"-376 601 LINE",
+"-278 777 LINE",
+"-179 601 LINE",
+"-156 610 LINE",
+"-269 809 LINE",
+"-286 809 LINE",
+"-400 610 LINE"
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _Anchor5;
+position = "{-278, -269}";
+}
+);
+layerId = "FE2B0BD8-B47C-499C-AD4C-AD0FCE91BEAA";
+paths = (
+{
+closed = 1;
+nodes = (
+"-373 594 LINE",
+"-282 747 LINE",
+"-182 594 LINE",
+"-121 617 LINE",
+"-252 808 LINE",
+"-318 808 LINE",
+"-438 615 LINE"
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _Anchor5;
+position = "{-278, -259}";
+}
+);
+layerId = "59904108-ED7C-415A-AD3A-E782E395359F";
+paths = (
+{
+closed = 1;
+nodes = (
+"-363 585 LINE",
+"-280 720 LINE",
+"-188 585 LINE",
+"-103 624 LINE",
+"-232 809 LINE",
+"-338 809 LINE",
+"-457 624 LINE"
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _Anchor5;
+position = "{-278, -259}";
+}
+);
+layerId = "A3F7EA16-0BE1-4972-8E15-81FCDB02E0EA";
+paths = (
+{
+closed = 1;
+nodes = (
+"-368 580 LINE",
+"-277 707 LINE",
+"-179 580 LINE",
+"-69 628 LINE",
+"-211 809 LINE",
+"-354 809 LINE",
+"-489 629 LINE"
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _Anchor5;
+position = "{-278, -259}";
+}
+);
+layerId = "4E5029FE-6AFD-4268-B346-636964A0A0FB";
+paths = (
+{
+closed = 1;
+nodes = (
+"-353 601 LINE",
+"-279 775 LINE",
+"-202 601 LINE",
+"-179 610 LINE",
+"-267 809 LINE",
+"-290 809 LINE",
+"-377 610 LINE"
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _Anchor5;
+position = "{-278, -259}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"-351 596 LINE",
+"-282 749 LINE",
+"-206 596 LINE",
+"-151 613 LINE",
+"-251 809 LINE",
+"-317 809 LINE",
+"-408 614 LINE"
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _Anchor5;
+position = "{-278, -259}";
+}
+);
+layerId = "A94BFCAA-C6AC-4D60-8591-C187F65C6766";
+paths = (
+{
+closed = 1;
+nodes = (
+"-340 582 LINE",
+"-279 701 LINE",
+"-208 582 LINE",
+"-102 616 LINE",
+"-213 809 LINE",
+"-349 809 LINE",
+"-455 617 LINE"
+);
+}
+);
+width = 0;
+}
+);
+unicode = 1CD0;
+category = Mark;
+subCategory = Nonspacing;
+}

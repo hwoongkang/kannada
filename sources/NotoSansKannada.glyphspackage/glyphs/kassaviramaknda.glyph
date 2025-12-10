@@ -1,0 +1,166 @@
+{
+glyphname = kassaviramaknda;
+layers = (
+{
+anchors = (
+{
+name = Anchor5;
+position = "{287, -24}";
+}
+);
+components = (
+{
+name = kanocrestknda;
+},
+{
+name = viramaknda;
+transform = "{1, 0, 0, 1, 574, 0}";
+},
+{
+name = ssasubscriptknda;
+transform = "{1, 0, 0, 1, 438, 51}";
+}
+);
+layerId = "FE2B0BD8-B47C-499C-AD4C-AD0FCE91BEAA";
+width = 887;
+},
+{
+anchors = (
+{
+name = Anchor5;
+position = "{318, -24}";
+}
+);
+components = (
+{
+name = kanocrestknda;
+},
+{
+name = viramaknda;
+transform = "{1, 0, 0, 1, 637, 0}";
+},
+{
+name = ssasubscriptknda;
+transform = "{1, 0, 0, 1, 462, 45}";
+}
+);
+layerId = "59904108-ED7C-415A-AD3A-E782E395359F";
+width = 1001;
+},
+{
+anchors = (
+{
+name = Anchor5;
+position = "{275, -24}";
+}
+);
+components = (
+{
+name = kanocrestknda;
+},
+{
+name = viramaknda;
+transform = "{1, 0, 0, 1, 526, 0}";
+},
+{
+name = ssasubscriptknda;
+transform = "{1, 0, 0, 1, 402, 53}";
+}
+);
+layerId = "0BEF1080-E137-4F43-8C83-CA78BDD71456";
+width = 782;
+},
+{
+anchors = (
+{
+name = Anchor5;
+position = "{341, -24}";
+}
+);
+components = (
+{
+name = kanocrestknda;
+},
+{
+name = viramaknda;
+transform = "{1, 0, 0, 1, 683, 0}";
+},
+{
+name = ssasubscriptknda;
+transform = "{1, 0, 0, 1, 485, 45}";
+}
+);
+layerId = "A3F7EA16-0BE1-4972-8E15-81FCDB02E0EA";
+width = 1078;
+},
+{
+anchors = (
+{
+name = Anchor5;
+position = "{222, -24}";
+}
+);
+components = (
+{
+name = kanocrestknda;
+},
+{
+name = viramaknda;
+transform = "{1, 0, 0, 1, 444, 0}";
+},
+{
+name = ssasubscriptknda;
+transform = "{1, 0, 0, 1, 346, 51}";
+}
+);
+layerId = UUID0;
+width = 695;
+},
+{
+anchors = (
+{
+name = Anchor5;
+position = "{200, -24}";
+}
+);
+components = (
+{
+name = kanocrestknda;
+},
+{
+name = viramaknda;
+transform = "{1, 0, 0, 1, 401, 0}";
+},
+{
+name = ssasubscriptknda;
+transform = "{1, 0, 0, 1, 333, 53}";
+}
+);
+layerId = "4E5029FE-6AFD-4268-B346-636964A0A0FB";
+width = 601;
+},
+{
+anchors = (
+{
+name = Anchor5;
+position = "{267, -24}";
+}
+);
+components = (
+{
+name = kanocrestknda;
+},
+{
+name = viramaknda;
+transform = "{1, 0, 0, 1, 540, 0}";
+},
+{
+name = ssasubscriptknda;
+transform = "{1, 0, 0, 1, 396, 45}";
+}
+);
+layerId = "A94BFCAA-C6AC-4D60-8591-C187F65C6766";
+width = 878;
+}
+);
+}

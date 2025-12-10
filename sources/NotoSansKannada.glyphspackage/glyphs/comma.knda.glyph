@@ -1,0 +1,146 @@
+{
+glyphname = comma.knda;
+layers = (
+{
+layerId = "FE2B0BD8-B47C-499C-AD4C-AD0FCE91BEAA";
+paths = (
+{
+closed = 1;
+nodes = (
+"101 119 LINE",
+"91 48 OFFCURVE",
+"70 -51 OFFCURVE",
+"51 -126 CURVE",
+"116 -126 LINE",
+"148 -55 OFFCURVE",
+"184 37 OFFCURVE",
+"202 107 CURVE",
+"195 119 LINE"
+);
+}
+);
+width = 268;
+},
+{
+layerId = "59904108-ED7C-415A-AD3A-E782E395359F";
+paths = (
+{
+closed = 1;
+nodes = (
+"110 128 LINE",
+"101 57 OFFCURVE",
+"79 -48 OFFCURVE",
+"60 -127 CURVE",
+"167 -127 LINE",
+"200 -55 OFFCURVE",
+"237 46 OFFCURVE",
+"254 116 CURVE",
+"247 128 LINE"
+);
+}
+);
+width = 319;
+},
+{
+layerId = "0BEF1080-E137-4F43-8C83-CA78BDD71456";
+paths = (
+{
+closed = 1;
+nodes = (
+"114 119 LINE",
+"107 47 OFFCURVE",
+"84 -57 OFFCURVE",
+"57 -126 CURVE",
+"79 -126 LINE",
+"109 -57 OFFCURVE",
+"134 28 OFFCURVE",
+"145 110 CURVE",
+"139 119 LINE"
+);
+}
+);
+width = 222;
+},
+{
+layerId = "A3F7EA16-0BE1-4972-8E15-81FCDB02E0EA";
+paths = (
+{
+closed = 1;
+nodes = (
+"110 142 LINE",
+"101 60 OFFCURVE",
+"82 -42 OFFCURVE",
+"60 -130 CURVE",
+"196 -130 LINE",
+"229 -56 OFFCURVE",
+"267 57 OFFCURVE",
+"284 131 CURVE",
+"277 142 LINE"
+);
+}
+);
+width = 347;
+},
+{
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"93 119 LINE",
+"86 47 OFFCURVE",
+"69 -45 OFFCURVE",
+"48 -126 CURVE",
+"110 -126 LINE",
+"142 -54 OFFCURVE",
+"166 24 OFFCURVE",
+"186 108 CURVE",
+"179 119 LINE"
+);
+}
+);
+width = 257;
+},
+{
+layerId = "4E5029FE-6AFD-4268-B346-636964A0A0FB";
+paths = (
+{
+closed = 1;
+nodes = (
+"114 119 LINE",
+"107 47 OFFCURVE",
+"84 -57 OFFCURVE",
+"57 -126 CURVE",
+"79 -126 LINE",
+"109 -57 OFFCURVE",
+"134 28 OFFCURVE",
+"145 110 CURVE",
+"139 119 LINE"
+);
+}
+);
+width = 222;
+},
+{
+layerId = "A94BFCAA-C6AC-4D60-8591-C187F65C6766";
+paths = (
+{
+closed = 1;
+nodes = (
+"100 142 LINE",
+"91 61 OFFCURVE",
+"69 -45 OFFCURVE",
+"48 -129 CURVE",
+"171 -129 LINE",
+"202 -58 OFFCURVE",
+"240 57 OFFCURVE",
+"252 131 CURVE",
+"247 142 LINE"
+);
+}
+);
+width = 308;
+}
+);
+unicode = 002C;
+}

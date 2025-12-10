@@ -1,0 +1,174 @@
+{
+glyphname = dbldandaknda;
+layers = (
+{
+layerId = "FE2B0BD8-B47C-499C-AD4C-AD0FCE91BEAA";
+paths = (
+{
+closed = 1;
+nodes = (
+"495 -139 LINE",
+"495 702 LINE",
+"414 702 LINE",
+"414 -139 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"275 -139 LINE",
+"275 702 LINE",
+"194 702 LINE",
+"194 -139 LINE"
+);
+}
+);
+width = 599;
+},
+{
+layerId = "59904108-ED7C-415A-AD3A-E782E395359F";
+paths = (
+{
+closed = 1;
+nodes = (
+"551 -139 LINE",
+"551 702 LINE",
+"417 702 LINE",
+"417 -139 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"312 -139 LINE",
+"312 702 LINE",
+"178 702 LINE",
+"178 -139 LINE"
+);
+}
+);
+width = 638;
+},
+{
+layerId = "0BEF1080-E137-4F43-8C83-CA78BDD71456";
+paths = (
+{
+closed = 1;
+nodes = (
+"432 -139 LINE",
+"432 702 LINE",
+"406 702 LINE",
+"406 -139 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"230 -139 LINE",
+"230 702 LINE",
+"204 702 LINE",
+"204 -139 LINE"
+);
+}
+);
+width = 546;
+},
+{
+layerId = "A3F7EA16-0BE1-4972-8E15-81FCDB02E0EA";
+paths = (
+{
+closed = 1;
+nodes = (
+"595 -139 LINE",
+"595 724 LINE",
+"424 724 LINE",
+"424 -139 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"343 -139 LINE",
+"343 724 LINE",
+"172 724 LINE",
+"172 -139 LINE"
+);
+}
+);
+width = 675;
+},
+{
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"385 -139 LINE",
+"385 702 LINE",
+"309 702 LINE",
+"309 -139 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"219 -139 LINE",
+"219 702 LINE",
+"143 702 LINE",
+"143 -139 LINE"
+);
+}
+);
+width = 464;
+},
+{
+layerId = "4E5029FE-6AFD-4268-B346-636964A0A0FB";
+paths = (
+{
+closed = 1;
+nodes = (
+"323 -139 LINE",
+"323 702 LINE",
+"297 702 LINE",
+"297 -139 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"176 -139 LINE",
+"176 702 LINE",
+"150 702 LINE",
+"150 -139 LINE"
+);
+}
+);
+width = 409;
+},
+{
+layerId = "A94BFCAA-C6AC-4D60-8591-C187F65C6766";
+paths = (
+{
+closed = 1;
+nodes = (
+"505 -139 LINE",
+"505 724 LINE",
+"348 724 LINE",
+"348 -139 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"291 -139 LINE",
+"291 724 LINE",
+"134 724 LINE",
+"134 -139 LINE"
+);
+}
+);
+width = 568;
+}
+);
+unicode = 0965;
+}

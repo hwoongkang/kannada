@@ -1,0 +1,167 @@
+{
+glyphname = uni1CF5;
+layers = (
+{
+layerId = "FE2B0BD8-B47C-499C-AD4C-AD0FCE91BEAA";
+paths = (
+{
+closed = 1;
+nodes = (
+"415 29 LINE",
+"479 72 LINE",
+"313 273 LINE",
+"482 479 LINE",
+"414 527 LINE",
+"261 333 LINE",
+"111 522 LINE",
+"48 479 LINE",
+"213 278 LINE",
+"45 74 LINE",
+"113 26 LINE",
+"265 219 LINE"
+);
+}
+);
+width = 527;
+},
+{
+layerId = "59904108-ED7C-415A-AD3A-E782E395359F";
+paths = (
+{
+closed = 1;
+nodes = (
+"412 17 LINE",
+"510 89 LINE",
+"353 275 LINE",
+"509 463 LINE",
+"407 536 LINE",
+"274 370 LINE",
+"140 536 LINE",
+"42 464 LINE",
+"199 279 LINE",
+"42 91 LINE",
+"144 19 LINE",
+"277 184 LINE"
+);
+}
+);
+width = 552;
+},
+{
+layerId = "0BEF1080-E137-4F43-8C83-CA78BDD71456";
+paths = (
+{
+closed = 1;
+nodes = (
+"412 42 LINE",
+"434 57 LINE",
+"255 276 LINE",
+"435 496 LINE",
+"413 511 LINE",
+"239 295 LINE",
+"68 508 LINE",
+"46 493 LINE",
+"223 277 LINE",
+"45 57 LINE",
+"67 42 LINE",
+"239 257 LINE"
+);
+}
+);
+width = 480;
+},
+{
+layerId = "A3F7EA16-0BE1-4972-8E15-81FCDB02E0EA";
+paths = (
+{
+closed = 1;
+nodes = (
+"406 8 LINE",
+"532 101 LINE",
+"380 276 LINE",
+"528 452 LINE",
+"401 545 LINE",
+"281 392 LINE",
+"160 546 LINE",
+"34 453 LINE",
+"187 280 LINE",
+"36 103 LINE",
+"166 14 LINE",
+"284 163 LINE"
+);
+}
+);
+width = 567;
+},
+{
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"295 33 LINE",
+"358 63 LINE",
+"233 275 LINE",
+"358 486 LINE",
+"295 520 LINE",
+"193 341 LINE",
+"93 520 LINE",
+"30 490 LINE",
+"155 277 LINE",
+"30 67 LINE",
+"93 33 LINE",
+"194 212 LINE"
+);
+}
+);
+width = 388;
+},
+{
+layerId = "4E5029FE-6AFD-4268-B346-636964A0A0FB";
+paths = (
+{
+closed = 1;
+nodes = (
+"305 42 LINE",
+"327 57 LINE",
+"197 275 LINE",
+"327 494 LINE",
+"305 509 LINE",
+"183 299 LINE",
+"61 509 LINE",
+"39 494 LINE",
+"168 275 LINE",
+"39 57 LINE",
+"61 42 LINE",
+"183 252 LINE"
+);
+}
+);
+width = 365;
+},
+{
+layerId = "A94BFCAA-C6AC-4D60-8591-C187F65C6766";
+paths = (
+{
+closed = 1;
+nodes = (
+"294 22 LINE",
+"406 79 LINE",
+"291 272 LINE",
+"407 476 LINE",
+"284 532 LINE",
+"216 396 LINE",
+"145 531 LINE",
+"33 474 LINE",
+"149 280 LINE",
+"32 77 LINE",
+"155 21 LINE",
+"224 157 LINE"
+);
+}
+);
+width = 439;
+}
+);
+unicode = 1CF5;
+}

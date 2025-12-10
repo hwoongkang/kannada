@@ -1,0 +1,168 @@
+{
+glyphname = janyivowelknda;
+layers = (
+{
+anchors = (
+{
+name = Anchor5;
+position = "{395, -24}";
+},
+{
+name = exit;
+position = "{712, -195}";
+}
+);
+components = (
+{
+name = jivowelknda;
+},
+{
+name = nyasubscriptknda;
+transform = "{1, 0, 0, 1, 541, 0}";
+}
+);
+layerId = "FE2B0BD8-B47C-499C-AD4C-AD0FCE91BEAA";
+width = 775;
+},
+{
+anchors = (
+{
+name = Anchor5;
+position = "{433, -24}";
+},
+{
+name = exit;
+position = "{773, -195}";
+}
+);
+components = (
+{
+name = jivowelknda;
+},
+{
+name = nyasubscriptknda;
+transform = "{1, 0, 0, 1, 559, 0}";
+}
+);
+layerId = "59904108-ED7C-415A-AD3A-E782E395359F";
+width = 866;
+},
+{
+anchors = (
+{
+name = Anchor5;
+position = "{384, -24}";
+},
+{
+name = exit;
+position = "{689, -195}";
+}
+);
+components = (
+{
+name = jivowelknda;
+},
+{
+name = nyasubscriptknda;
+transform = "{1, 0, 0, 1, 495, 0}";
+}
+);
+layerId = "0BEF1080-E137-4F43-8C83-CA78BDD71456";
+width = 726;
+},
+{
+anchors = (
+{
+name = Anchor5;
+position = "{473, -24}";
+},
+{
+name = exit;
+position = "{821, -195}";
+}
+);
+components = (
+{
+name = jivowelknda;
+},
+{
+name = nyasubscriptknda;
+transform = "{1, 0, 0, 1, 601, 0}";
+}
+);
+layerId = "A3F7EA16-0BE1-4972-8E15-81FCDB02E0EA";
+width = 923;
+},
+{
+anchors = (
+{
+name = Anchor5;
+position = "{305, -24}";
+},
+{
+name = exit;
+position = "{537, -195}";
+}
+);
+components = (
+{
+name = jivowelknda;
+},
+{
+name = nyasubscriptknda;
+transform = "{1, 0, 0, 1, 411, 0}";
+}
+);
+layerId = UUID0;
+width = 595;
+},
+{
+anchors = (
+{
+name = Anchor5;
+position = "{279, -24}";
+},
+{
+name = exit;
+position = "{495, -195}";
+}
+);
+components = (
+{
+name = jivowelknda;
+},
+{
+name = nyasubscriptknda;
+transform = "{1, 0, 0, 1, 371, 0}";
+}
+);
+layerId = "4E5029FE-6AFD-4268-B346-636964A0A0FB";
+width = 546;
+},
+{
+anchors = (
+{
+name = Anchor5;
+position = "{382, -24}";
+},
+{
+name = exit;
+position = "{647, -195}";
+}
+);
+components = (
+{
+name = jivowelknda;
+},
+{
+name = nyasubscriptknda;
+transform = "{1, 0, 0, 1, 474, 0}";
+}
+);
+layerId = "A94BFCAA-C6AC-4D60-8591-C187F65C6766";
+width = 742;
+}
+);
+category = Letter;
+subCategory = Other;
+}

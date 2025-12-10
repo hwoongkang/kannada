@@ -1,0 +1,146 @@
+{
+glyphname = quoteleft.knda;
+layers = (
+{
+layerId = "FE2B0BD8-B47C-499C-AD4C-AD0FCE91BEAA";
+paths = (
+{
+closed = 1;
+nodes = (
+"157 549 LINE",
+"167 618 OFFCURVE",
+"188 718 OFFCURVE",
+"208 793 CURVE",
+"138 793 LINE",
+"105 723 OFFCURVE",
+"69 629 OFFCURVE",
+"52 560 CURVE",
+"58 549 LINE"
+);
+}
+);
+width = 259;
+},
+{
+layerId = "59904108-ED7C-415A-AD3A-E782E395359F";
+paths = (
+{
+closed = 1;
+nodes = (
+"187 549 LINE",
+"197 618 OFFCURVE",
+"217 714 OFFCURVE",
+"236 793 CURVE",
+"129 793 LINE",
+"96 721 OFFCURVE",
+"61 630 OFFCURVE",
+"43 560 CURVE",
+"50 549 LINE"
+);
+}
+);
+width = 279;
+},
+{
+layerId = "0BEF1080-E137-4F43-8C83-CA78BDD71456";
+paths = (
+{
+closed = 1;
+nodes = (
+"104 548 LINE",
+"111 620 OFFCURVE",
+"132 723 OFFCURVE",
+"161 793 CURVE",
+"139 793 LINE",
+"109 724 OFFCURVE",
+"84 639 OFFCURVE",
+"73 557 CURVE",
+"79 548 LINE"
+);
+}
+);
+width = 232;
+},
+{
+layerId = "A3F7EA16-0BE1-4972-8E15-81FCDB02E0EA";
+paths = (
+{
+closed = 1;
+nodes = (
+"214 541 LINE",
+"223 612 OFFCURVE",
+"243 713 OFFCURVE",
+"262 793 CURVE",
+"126 793 LINE",
+"93 728 OFFCURVE",
+"58 614 OFFCURVE",
+"40 551 CURVE",
+"47 541 LINE"
+);
+}
+);
+width = 302;
+},
+{
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"145 547 LINE",
+"152 618 OFFCURVE",
+"168 710 OFFCURVE",
+"190 793 CURVE",
+"129 793 LINE",
+"97 721 OFFCURVE",
+"71 642 OFFCURVE",
+"52 558 CURVE",
+"58 547 LINE"
+);
+}
+);
+width = 242;
+},
+{
+layerId = "4E5029FE-6AFD-4268-B346-636964A0A0FB";
+paths = (
+{
+closed = 1;
+nodes = (
+"100 548 LINE",
+"107 620 OFFCURVE",
+"128 723 OFFCURVE",
+"157 793 CURVE",
+"135 793 LINE",
+"105 724 OFFCURVE",
+"80 639 OFFCURVE",
+"69 557 CURVE",
+"75 548 LINE"
+);
+}
+);
+width = 224;
+},
+{
+layerId = "A94BFCAA-C6AC-4D60-8591-C187F65C6766";
+paths = (
+{
+closed = 1;
+nodes = (
+"203 541 LINE",
+"210 631 OFFCURVE",
+"222 696 OFFCURVE",
+"243 793 CURVE",
+"111 793 LINE",
+"80 720 OFFCURVE",
+"57 662 OFFCURVE",
+"40 552 CURVE",
+"46 541 LINE"
+);
+}
+);
+width = 283;
+}
+);
+unicode = 2018;
+}
